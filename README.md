@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/oznu/docker-cloudflare-ddns.svg)](https://travis-ci.org/oznu/docker-cloudflare-ddns) [![Docker Pulls](https://img.shields.io/docker/pulls/oznu/cloudflare-ddns.svg)](https://hub.docker.com/r/oznu/cloudflare-ddns/)
+[![Travis](https://travis-ci.org/fonix232/docker-cloudflare-ddns.svg?branch=master)](https://travis-ci.org/fonix232/docker-cloudflare-ddns) [![Docker Pulls](https://img.shields.io/docker/pulls/fonix232/cloudflare-ddns.svg)](https://hub.docker.com/r/fonix232/cloudflare-ddns/)
 
 # Docker CloudFlare DDNS
 
@@ -8,9 +8,9 @@ This small Alpine Linux based Docker image will allow you to use the free [Cloud
 
 | Image Tag             | Architecture  | OS            | Size   |
 | :-------------------- | :-------------| :------------ | :----  |
-| latest                | x64           | Alpine Linux  | [![](https://images.microbadger.com/badges/image/oznu/cloudflare-ddns.svg)](https://microbadger.com/images/oznu/cloudflare-ddns) |
-| armhf          | arm32v6       | Alpine Linux  | [![](https://images.microbadger.com/badges/image/oznu/cloudflare-ddns:armhf.svg)](https://microbadger.com/images/oznu/cloudflare-ddns:armhf) |
-| aarch64         | arm64       | Alpine Linux  | [![](https://images.microbadger.com/badges/image/oznu/cloudflare-ddns:aarch64.svg)](https://microbadger.com/images/oznu/cloudflare-ddns:aarch64) |
+| latest                | x64           | Alpine Linux  | [![](https://images.microbadger.com/badges/image/fonix232/cloudflare-ddns.svg)](https://microbadger.com/images/fonix232/cloudflare-ddns) |
+| armhf          | arm32v6       | Alpine Linux  | [![](https://images.microbadger.com/badges/image/fonix232/cloudflare-ddns:armhf.svg)](https://microbadger.com/images/fonix232/cloudflare-ddns:armhf) |
+| aarch64         | arm64       | Alpine Linux  | [![](https://images.microbadger.com/badges/image/fonix232/cloudflare-ddns:aarch64.svg)](https://microbadger.com/images/fonix232/cloudflare-ddns:aarch64) |
 
 ## Usage
 
